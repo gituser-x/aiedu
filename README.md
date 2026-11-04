@@ -4,7 +4,7 @@
 
 这是实际部署项目的公开展示仓库，面向技术面试与代码评估，包含架构、接口设计、真实界面和部分核心实现。完整产品源码与运行数据保留在私有项目中。
 
-[在线体验](http://47.83.144.92/) · [直接注册](http://47.83.144.92/accounts/register/) · [架构设计](docs/architecture.md) · [代码导读](code-excerpts/README.md) · [验收与局限](docs/validation.md)
+[在线体验](http://47.83.161.62/) · [直接注册](http://47.83.161.62/accounts/register/) · [架构设计](docs/architecture.md) · [代码导读](code-excerpts/README.md) · [验收与局限](docs/validation.md)
 
 ## 两分钟体验
 
